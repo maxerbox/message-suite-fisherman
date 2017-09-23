@@ -1,0 +1,34 @@
+{
+  "name": "message-suite-fisherman",
+  "version": "1.0.0",
+  "description": "A middleware used to add some features to fisherman, like bot typing, or Embed compatibility",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxerbox/message-suite-fisherman.git"
+  },
+  "keywords": [
+    "Middleware",
+    "fisherman",
+    "discord",
+    "command",
+    "framework",
+    "plugin",
+    "message",
+    "typing",
+    "embed",
+    "compatibility"
+  ],
+  "author": "Simon Sassi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxerbox/message-suite-fisherman/issues"
+  },
+  "homepage": "https://github.com/maxerbox/message-suite-fisherman#readme",
+  "dependencies": {
+    "defaults": "^1.0.3"
+  }
+}
