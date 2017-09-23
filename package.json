@@ -1,6 +1,6 @@
 {
   "name": "message-suite-fisherman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A middleware used to add some features to fisherman, like bot typing, or Embed compatibility",
   "main": "./lib/index.js",
   "scripts": {

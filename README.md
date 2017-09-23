@@ -28,7 +28,7 @@ bot.use(messageSuitePlugin)
 
 ## Api docs
 
-### new Messagesuite(opts)
+### new MessageSuite(opts)
 
 Creates an instance of MessageSuite.
 
@@ -60,7 +60,7 @@ The default value is a simple function who looks like this:
 
 The `embed` parameter is an Object. This function has to return a string value
 
-## Custom timeout and typing count in the command locales proprety
+## Custom timeout and typing count in the command locales property
 
 You can set as well the timeout and the typing count in the command's locales property:
 
